@@ -29,7 +29,7 @@
 
 ## 📫 Connect with me
 
-- GitHub: [@yourusername](https://github.com/JuiloCesarDev)  
+- GitHub:(https://github.com/JuiloCesarDev)  
 - Email: jliocesarpereira@gmail.com
 
 ---
