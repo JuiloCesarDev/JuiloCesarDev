@@ -15,7 +15,7 @@
 
 ## 📂 Featured Projects
 
-- 🎨 [`fruity-soda-slider`](https://github.com/yourusername/fruity-soda-slider): A visual soda carousel with smooth transitions and bold colors. Built with semantic HTML, CSS animations and vanilla JavaScript.
+- 🎨 [`A To-do List`](https://github.com/yourusername/fruity-soda-slider):.
 
 ---
 
