@@ -1,37 +1,48 @@
-# 👋 Hi there! I'm [Júlio César]
+# 👋 Hey Everyone, I'm Júlio César
 
-🎯 A front-end developer in training, focused on creative and visually engaging web projects. Passionate about turning ideas into beautiful, functional interfaces — always learning something new, from semantic HTML to video editing.
+## 🌌 Welcome to My GitHubverse!
 
----
+🚀 **Front-end & JavaScript Developer**
 
-## 🚀 Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=fff)
----
-
-## 📂 Featured Projects
-
-- 🎨 [`A To-do List`](https://github.com/yourusername/fruity-soda-slider):.
+- 🌱 Always learning and building cool stuff  
+- 💡 Focused on clean, creative and useful projects  
+- 🤝 Open to collaborate on open-source  
+- 💻 Currently working on improving my portfolio  
+- 🎯 Goal: Build things that help people every day  
 
 ---
 
-## 📚 Currently Learning
-
-- Systems Analysis and Development (Associate Degree)
-- Image and video editing (Photoshop, Premiere, etc.)
-- JavaScript fundamentals and modern front-end concepts
-
----
-
-## 📫 Connect with me
-
-- GitHub:(https://github.com/JuiloCesarDev)  
-- Email: jliocesarpereira@gmail.com
+### 🔗 Connect with me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ---
 
-> "Practice makes perfect. One commit at a time." ✨
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)
+
+---
+
+### 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🧠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!** ⭐
